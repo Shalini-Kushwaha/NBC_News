@@ -1,6 +1,8 @@
+
 <Alloy>
 	<Window class="container">
 		<Require type="widget" src="com.default.NBCNewsFeed" id="nbc"/>
 		<Label id="label" onClick="doClick">Hello, World</Label>
 	</Window>
+
 </Alloy>
