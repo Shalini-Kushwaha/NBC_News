@@ -1,0 +1,15 @@
+Logfile initialized
+[INFO] logfile = /Users/veer.jain/Desktop/NBC_News/build.log
+[DEBUG] /Users/veer.jain/Library/Application Support/Titanium/mobilesdk/osx/2.1.0.GA/android/builder.py simulator NBC_News /Applications/android-sdk /Users/veer.jain/Desktop/NBC_News com.shalini.nbcnews 28 WQVGA400 
+[INFO] Building NBC_News for Android ... one moment
+[INFO] plugin=/Users/veer.jain/Library/Application Support/Titanium/plugins/ti.alloy/1.0/plugin.py
+[INFO] Detected compiler plugin: ti.alloy/1.0
+[INFO] Titanium SDK version: 2.1.0 (06/28/12 12:16 6e3cab6)
+[DEBUG] Waiting for device to be ready ...
+[TRACE] adb devices returned 0 devices/emulators
+[TRACE] adb devices returned 0 devices/emulators
+[TRACE] adb devices returned 0 devices/emulators
+[TRACE] adb devices returned 0 devices/emulators
+[TRACE] adb devices returned 0 devices/emulators
+[TRACE] adb devices returned 0 devices/emulators
+[ERROR] Timed out waiting for emulator to be ready, you may need to close the emulator and try again

@@ -5,5 +5,5 @@
 	"env:production": {}, 
 	"os:ios": {}, 
 	"os:android": {}, 
-	"dependencies": {}
+	"dependencies": {"com.default.NBCNewsFeed":"1.0"}
 }

@@ -1,4 +1,6 @@
-function doClick(e) {  
+function doClick(e) {
+    $.nbc.getSubcategories();
+    //$.win.open();
     alert($.label.text);
 }
 
